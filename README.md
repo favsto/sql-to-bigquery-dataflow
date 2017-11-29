@@ -73,5 +73,9 @@ mvn compile exec:java \
 
 For more information about pipeline options visit the [documentation](https://cloud.google.com/dataflow/pipelines/specifying-exec-params).
 
+## License
+
+Apache License Version 2.0
+
 ## Contact us
-I'm glad if you help us to improve this pipeline. Feel free to interact with us, collaborate and improve this code. Please contact us via e-mail: fausto.fusaro@injenia.it.
+I'm glad if you help us to improve this pipeline. Feel free to interact with us, collaborate and improve this code. Please contact us via e-mail: fausto.fusaro@injenia.it. Any contributor is my friend!
