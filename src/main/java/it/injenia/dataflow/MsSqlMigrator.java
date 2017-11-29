@@ -52,7 +52,7 @@ import it.injenia.dataflow.transform.TableToDbRowFn;
 import it.injenia.dataflow.util.MsSqlManager;
 
 /**
- * This is the main class of the pipeline, developed with framework 2.1.0.
+ * This is the main class of the pipeline, developed with Dataflow SDK 2.1.0.
  * Basically this pipeline will migrate a MS SQL Server catalog to a dataset
  * BigQuery. You need to prepare your MS SQL Server instance and BigQuery
  * project parameters.
@@ -69,7 +69,7 @@ import it.injenia.dataflow.util.MsSqlManager;
  * - MS SQL address reachable from your launcher machine
  * - MS SQL catalog name to migrate
  * - MS SQL username and password
- * - BigQuery output dataset name; this dataset must be created before the run
+ * - BigQuery output dataset name: this dataset must be created before the run
  * }
  * </pre>
  * </p>
